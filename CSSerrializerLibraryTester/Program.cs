@@ -8,7 +8,7 @@ using CSSerializerLibrary;
 
 namespace CSSerrializerLibraryTester
 {
-    //2019. 10. 24. 14:39
+    //2019. 10. 24. 18:39
     class Program
     {
         private static readonly string PATH = ConfigurationManager.AppSettings["path"];
